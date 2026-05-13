@@ -3,4 +3,4 @@ My frontend view :
 http://localhost:5173/<br>
 To look it just pull my code of frontend and backhend<br>
 In frontend do npm run dev <br>
-In  backhend do npm run dev as using tsx  <br>
+In  backhend do npm run dev beacuse i have modified it for uisng tsx   <br>
